@@ -106,7 +106,7 @@
     <string name="pref_rtlsdr_externalServer_summ_on">Using external server</string>
     <string name="pref_rtlsdr_externalServer_summ_off">Using local device</string>
     <string name="pref_rtlsdr_ip">pref_rtlsdr_ip</string>
-    <string name="pref_rtlsdr_ip_title">IP address</string>
+    <string name="pref_rtlsdr_ip_title">IP地址</string>
     <string name="pref_rtlsdr_ip_summ">IP of the rtl_tcp server: %s</string>
     <string name="pref_rtlsdr_ip_default">192.168.0.100</string>
     <string name="pref_rtlsdr_port">pref_rtlsdr_port</string>
@@ -190,9 +190,9 @@
     <string name="pref_frameRate_summ">刷新率设置为: %s</string>
     <string name="pref_filesource_format">pref_filesource_format</string>
     <string name="pref_logging">pref_logging</string>
-    <string name="pref_logging_title">Logging</string>
-    <string name="pref_logging_summ_on">Logging is enabled</string>
-    <string name="pref_logging_summ_off">Logging is disabled</string>
+    <string name="pref_logging_title">日志</string>
+    <string name="pref_logging_summ_on">日志开启</string>
+    <string name="pref_logging_summ_off">日志关闭</string>
     <string name="pref_showLog">pref_showLog</string>
     <string name="pref_showLog_title">Show Log</string>
     <string name="pref_logfile">pref_logfile</string>
